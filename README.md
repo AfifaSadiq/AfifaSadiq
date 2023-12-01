@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... machine learning and data science.
 - 💞️ I’m looking to collaborate on ... projects with c++, c and python.
-- 📫 How to reach me ... afifasadiq@gmail.com
+- 📫 How to reach me ... afifasadiq03@gmail.com
 
 <!---
 AfifaSadiq/AfifaSadiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
