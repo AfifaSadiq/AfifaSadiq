@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfifaSadiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... machine learning and data science.
-- 💞️ I’m looking to collaborate on ... projects with c++, c and python.
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning through projects and internships.
+- 💞️ I’m looking to collaborate on javascript, python, and backend development projects.
 - 📫 How to reach me ... afifasadiq03@gmail.com
 
 <!---
